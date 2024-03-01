@@ -1,0 +1,8 @@
+{
+  "name": "App-de-peli",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "73853cc6"
+}
